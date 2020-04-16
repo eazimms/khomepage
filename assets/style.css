@@ -1,0 +1,144 @@
+#facepic {
+  float: left; 
+}
+
+#k3 {
+  float: left; 
+  max-width: 50%;
+  max-height: fit-content;
+}
+
+#k2 {
+  float: left; 
+  max-width: 70vw;
+  max-height: 70vh;
+}
+
+#k1 {
+  float: left; 
+  max-width: 60vw; 
+  max-height: 60vh;
+}
+
+
+
+.footer{
+  position: fixed; 
+  left:0; 
+  bottom: 0; 
+  width: 100%; 
+   
+}
+
+.clock {
+  height: 100px;
+  width: 70%;
+  line-height: 100px;  
+  margin: 150px auto 0;
+  padding: 0 50px;
+  background: #222;
+  color: #eee;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 0 0 7px #222;
+  text-shadow: 0 0 3px #fff;
+}
+
+.nav-item {
+  color: #222;
+}
+
+body {
+  background: linear-gradient(270deg, #cb7cc7, #d79fac);
+  background-size: 400% 400%;
+  
+  -webkit-animation: AnimationName 30s ease infinite;
+  -moz-animation: AnimationName 30s ease infinite;
+  animation: AnimationName 30s ease infinite;
+  
+  @-webkit-keyframes AnimationName {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes AnimationName {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @keyframes AnimationName {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+    100%{background-position:0% 84%}
+}
+}
+
+.nav {
+  background: linear-gradient(87deg, #a7ebda, #333736);
+background-size: 400% 400%;
+
+-webkit-animation: AnimationName 30s ease infinite;
+-moz-animation: AnimationName 30s ease infinite;
+animation: AnimationName 30s ease infinite;
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+}
+
+.card {
+  margin: 10px; 
+  margin-bottom: 10px; 
+}
+
+.container{
+  background-color: white; 
+}
+
+.jumbotron {
+  height: 80vh;
+}
+
+#contactform {
+  
+  border-radius: 2%; 
+}
+
+.footer {
+  background: linear-gradient(270deg, #a7ebda, #333736);
+background-size: 400% 400%;
+
+-webkit-animation: AnimationName 30s ease infinite;
+-moz-animation: AnimationName 30s ease infinite;
+animation: AnimationName 30s ease infinite;
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+}
